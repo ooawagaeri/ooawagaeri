@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to Ooawagaeri 👋
+
+My name is Timothy Chua and welcome to my Github page. In this site, you will find yourself all the publicly available programming projects that I am proud to display!
 
 <!--
 **ooawagaeri/ooawagaeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
